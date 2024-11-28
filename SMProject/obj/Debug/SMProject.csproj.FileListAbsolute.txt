@@ -1,0 +1,9 @@
+C:\Users\student\Desktop\SMProject\obj\Debug\SMProject.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\SMProject\obj\Debug\SMProject.Properties.Resources.resources
+C:\Users\student\Desktop\SMProject\obj\Debug\SMProject.csproj.GenerateResource.cache
+C:\Users\student\Desktop\SMProject\obj\Debug\SMProject.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\SMProject\bin\Debug\SMProject.exe.config
+C:\Users\student\Desktop\SMProject\bin\Debug\SMProject.exe
+C:\Users\student\Desktop\SMProject\bin\Debug\SMProject.pdb
+C:\Users\student\Desktop\SMProject\obj\Debug\SMProject.exe
+C:\Users\student\Desktop\SMProject\obj\Debug\SMProject.pdb
